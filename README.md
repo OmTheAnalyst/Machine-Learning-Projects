@@ -1,1 +1,1 @@
-# azure-synapse-analytics-project
+# End to End ML Projects
